@@ -1,6 +1,5 @@
 {
-  "access-token": ACCESS_TOKEN,
-  "server": SERVER_URL,
+  "server": "https://m.170908.xyz",
   "home-timeline-length": 200,
   "max-followings": 80,
   "from-notifications": 1
